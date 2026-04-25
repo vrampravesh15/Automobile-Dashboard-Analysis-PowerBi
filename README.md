@@ -80,7 +80,6 @@ This project demonstrates skills in dashboard design, data visualization, report
 - Expand analysis with more automobile segments.
 
 ## Screenshots
-![Dashboard Overview](screenshots/dashboard-overview.png) 
-![Sales Performance View](screenshots/sales-performance-view.png) 
-![Model Performance View](screenshots/model-performance-view.png) 
-![Filters and KPIs](screenshots/filters-and-kpis.png) 
+![Dashboard Overview](screenshots/Dashboard-Overview.png) 
+![Sales Performance View](screenshots/Sales-Performance.png) 
+![Filters and KPIs](screenshots/Filters-kpis.png) 
