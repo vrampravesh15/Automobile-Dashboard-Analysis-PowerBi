@@ -82,4 +82,4 @@ This project demonstrates skills in dashboard design, data visualization, report
 ## Screenshots
 ![Dashboard Overview](Screenshots/Dashboard-Overview.png)
 ![Sales Performance View](Screenshots/Sales-Performance.png) 
-![Filters and KPIs](Screenshots/Filters-kpis.png) 
+![Filters and KPIs](Screenshots/filters-kpis.png) 
